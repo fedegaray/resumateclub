@@ -31,4 +31,4 @@ Este script modifica los nombres originales. Si quieres probarlo primero, hazlo 
 
 ---
 
-**Recurso de [ResuMate Club](https://www.skool.com/resumateclub)**
+**Recurso de [ResuMate Club](https://www.resumateclub.com)**
